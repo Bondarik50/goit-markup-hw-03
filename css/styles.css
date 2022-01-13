@@ -221,7 +221,7 @@ address {
 }
 
 /*Стилизация about*/
-.team{background-color: #F5F4FA;;}
+.team{background-color:var(--filters-color);}
 .about-after-title {
   font-size: 16px;
   line-height: 1.19;
